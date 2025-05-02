@@ -7,8 +7,6 @@ GOPIZZA Kitchen Display System(KDS)은 피자 매장 주방의 효율적인 주�
 KDS는 SUB KDS와 함께,  POS 시스템이나 모바일 앱, 키오스크 등 다양한 채널에서 발생한 주문을 실시간으로 수집하여 주방 스태프에게 명확하게 표시하며, 각 주문의 상태를 추적하고 관리하는 통합 솔루션입니다.
 
 
-![GOPIZZA Logo](public/images/thumb.png)
-
 
 ## 주요 기능
 
